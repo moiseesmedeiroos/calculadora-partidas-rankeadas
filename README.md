@@ -1,4 +1,4 @@
-# 🦸‍♂️ Calculadora de Rank 
+# 🧮 Calculadora de Rank 
 
 Bem-vindo a Calculadora de Rank, Este é um projeto simples em JavaScript que determina o nível de um herói com base em seu saldo de vitórias e derrotas. Descubra em qual liga seu herói está!
 
