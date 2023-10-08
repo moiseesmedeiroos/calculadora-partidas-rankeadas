@@ -13,19 +13,19 @@ function getWinsLosses(wins,losses){
 if (rank <= 10 ){
     console.log(`O Herói tem de saldo de ${rank} está no nível Ferro`)
 }
-else if (rank > 10, rank <= 20) {
+else if (rank > 10 && rank <= 20) {
     console.log(`O Herói tem de saldo de ${rank} está no nível Bronze`)
 }
-else if (rank > 20, rank <= 50) {
+else if (rank > 20 && rank <= 50) {
     console.log(`O Herói tem de saldo de ${rank} está no nível Prata`)
 }
-else if (rank > 50, rank <= 80) {
+else if (rank > 50 && rank <= 80) {
     console.log(`O Herói tem de saldo de ${rank} está no nível Ouro`)
 }
-else if (rank > 80, rank <= 90) {
+else if (rank > 80 && rank <= 90) {
     console.log(`O Herói tem de saldo de ${rank} está no nível Diamante`)
 }
-else if (rank > 90, rank <= 100) {
+else if (rank > 90 && rank <= 100) {
     console.log(`O Herói tem de saldo de ${rank} está no nível Lendário`)
 }
 else {
